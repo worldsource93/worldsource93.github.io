@@ -1,0 +1,20 @@
+<svg width="260" height="40" viewBox="0 0 260 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- 좌측 < 꺾쇠 -->
+  <g transform="translate(0,0)">
+    <path d="M20,10 L10,20 L20,30" stroke="#6A0DAD" stroke-width="3" fill="none"
+      stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <!-- 텍스트 Won.dev -->
+  <text x="40" y="28" font-family="'Fredoka Bold', Verdana, sans-serif" font-size="24"
+    fill="#1B1F3B" font-weight="bold">Won.dev</text>
+
+  <!-- 오른쪽 /> 벡터 -->
+  <g transform="translate(175,0)">
+    <!-- 슬래시 / -->
+    <path d="M0,30 L8,10" stroke="#6A0DAD" stroke-width="3" stroke-linecap="round" />
+    <!-- 꺾쇠 > -->
+    <path d="M18,10 L28,20 L18,30" stroke="#6A0DAD" stroke-width="3" fill="none"
+      stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>
